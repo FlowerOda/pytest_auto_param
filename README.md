@@ -31,5 +31,4 @@ def test_many_args(a, b, c, d, e, f, g):
     assert d == 4
 ```
 
-参考 https://github.com/mgeier/pytest-auto-parametrize
 
